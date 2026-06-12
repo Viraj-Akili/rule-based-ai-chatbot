@@ -40,4 +40,4 @@ python chatbot.py
 
 ## Demo
 
-![Demo](screenshots/demo.png)
+![Demo](screenshots/demo-1.png)
