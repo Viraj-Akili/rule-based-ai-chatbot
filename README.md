@@ -37,3 +37,7 @@ python chatbot.py
 - Control Flow
 - Session Memory
 - Error Handling
+
+## Demo
+
+![Demo](screenshots/demo.png)
